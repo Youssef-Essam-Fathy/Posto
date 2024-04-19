@@ -1,0 +1,20 @@
+.flask{
+    background-color: aquamarine;
+    height: 50px;
+}
+.parag{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.post{
+    text-align: center;
+}
+.postStyle{
+    background-color: rgb(59, 175, 175);
+}
+#title{
+    color: black;
+    font-weight: bold;
+    font-size: xx-large;
+}
